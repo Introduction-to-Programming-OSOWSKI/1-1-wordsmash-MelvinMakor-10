@@ -1,3 +1,2 @@
 def wordSmash():
-    return "Cat" + "Dog"
-wordSmash()
+    return "a" + "b"
